@@ -1,4 +1,4 @@
-===============SCHOOL ATTENDANCE SYSTEM ==============================
+#SCHOOL ATTENDANCE SYSTEM 
 This is updated version with autorefresh and minor bug fixes
         - Auto refresh (Backend Improvement)
         - Fixed P and Ab to Override None Value (visual improvement)
@@ -17,21 +17,21 @@ credentials.
 Libraries or not.
 
 ======================================================================
-About Project :
+## About Project :
 
-Python library Used  :-
- Tkinter
- Mysql.connector
- Python Imaging Library ( Pillow / PIL)
- Datetime
+###Python library Used  :-
+* Tkinter
+* Mysql.connector
+* Python Imaging Library ( Pillow / PIL)
+* Datetime
 
-Ideas About Project
- Making GUI using Tkinter.
- Executing MySQL command in background using mysql.connector
+## Ideas About Project
+* Making GUI using Tkinter.
+* Executing MySQL command in background using mysql.connector
 in backend while clicking buttons.
- Creating a module containing functions to excuse different
+* Creating a module containing functions to excuse different
 required operation in UI. Ex getting today’s date , sql query etc.
- To modernize the UI, using PIL (Python Imaging Library) to use
+* To modernize the UI, using PIL (Python Imaging Library) to use
 image in place of text in tkinter button.
- Creating a setup.py to create all required database & table
+* Creating a setup.py to create all required database & table
 required to run during setup ⌚ only
