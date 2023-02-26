@@ -1,12 +1,11 @@
-#SCHOOL ATTENDANCE SYSTEM 
+# SCHOOL ATTENDANCE SYSTEM 
 This is updated version with autorefresh and minor bug fixes
         - Auto refresh (Backend Improvement)
         - Fixed P and Ab to Override None Value (visual improvement)
 
 ⭐ Before Runing code on PC make sure you have installed all libraries along with MySql on your system
 
-## TO setup First time :
--
+## To setup first time :
 1. Save all files UI.py, MySQL.py(module), and images in same
 directory
 2. After extracting archive run setup.py . (It will create all required
