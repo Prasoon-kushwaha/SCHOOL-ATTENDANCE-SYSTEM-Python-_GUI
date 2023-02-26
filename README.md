@@ -5,7 +5,7 @@ This is updated version with autorefresh and minor bug fixes
 
 ⭐ Before Runing code on PC make sure you have installed all libraries along with MySql on your system
 
-TO setup First time :
+## TO setup First time :
 -
 1. Save all files UI.py, MySQL.py(module), and images in same
 directory
@@ -16,10 +16,9 @@ credentials.
 4. If error comes check whether you have installed all required
 Libraries or not.
 
-======================================================================
 ## About Project :
 
-###Python library Used  :-
+### Python library Used  :-
 * Tkinter
 * Mysql.connector
 * Python Imaging Library ( Pillow / PIL)
