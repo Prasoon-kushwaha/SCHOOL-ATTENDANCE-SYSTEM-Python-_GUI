@@ -58,5 +58,6 @@ SCHOOL-ATTENDANCE-SYSTEM-Python-_GUI/
 ├── data/
 │   ├── students.csv       # CSV file storing student data
 │   └── attendance.csv     # CSV file storing attendance records
-└──
+└── README.md              # Project README file
+
 ```
