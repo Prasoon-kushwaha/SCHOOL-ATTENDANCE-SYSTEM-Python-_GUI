@@ -48,6 +48,7 @@ The School Attendance System is a desktop application developed using Python and
    - Export attendance data to a CSV file for further analysis.
 
 ## Project Structure
+```
 SCHOOL-ATTENDANCE-SYSTEM-Python-_GUI/
 │
 ├── main.py                # Entry point for the application
@@ -58,3 +59,4 @@ SCHOOL-ATTENDANCE-SYSTEM-Python-_GUI/
 │   ├── students.csv       # CSV file storing student data
 │   └── attendance.csv     # CSV file storing attendance records
 └──
+```
